@@ -1,6 +1,11 @@
 {
     "chromeWebSecurity": false,
+    "testFiles": "./**/**/*.spec.js",
     "baseUrl": "https://magento.softwaretestingboard.com/",
     "viewportWidth": 1336,
-    "viewportHeight": 960
+    "viewportHeight": 960,
+    "cidade": "São José do Rio Preto",
+    "estado": "5",
+    "cep": "12345-6789",
+    "telefone": "12345-6789"
 }
