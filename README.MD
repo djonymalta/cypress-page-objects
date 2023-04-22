@@ -1,7 +1,7 @@
 Sejam Bem vindos projeto Cypress | Page Objects | WΞǪΛ
 ==================
 <p align="center">
-| <img src="https://i.ibb.co/r3VL5NN/marca-dagua.png" alt=""  width="400" height="90" /> |
+| <img src="https://i.ibb.co/r3VL5NN/marca-dagua.png" alt=""  width="400" height="130" /> |
 </p>
 
 O que será necessário ter:
