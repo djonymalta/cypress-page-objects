@@ -1,0 +1,14 @@
+{
+  "name": "cypress-page-objects",
+  "version": "1.0.0",
+  "description": "Testes Automatizados utilizando Cypress | Page Objects | Github Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DJONY MALTA",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}

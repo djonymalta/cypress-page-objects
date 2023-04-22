@@ -1,0 +1,6 @@
+{
+    "chromeWebSecurity": false,
+    "baseUrl": "https://magento.softwaretestingboard.com/",
+    "viewportWidth": 1336,
+    "viewportHeight": 960
+}
